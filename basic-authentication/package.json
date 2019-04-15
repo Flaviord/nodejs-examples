@@ -4,8 +4,6 @@
     "description": "NodeJS Basic HTTP Authentication API",
     "license": "MIT",
     "repository": {
-        "type": "git",
-        "url": "https://github.com/cornflourblue/node-basic-authentication-api.git"
     },
     "scripts": {
         "start": "nodemon ./server.js"
