@@ -1,7 +1,7 @@
-#Basic JWT
+# Basic JWT
 
-** GET
+**GET
 > curl http://localhost:{port}
 
-** POST
+**POST
 > curl -d "userName=flaviord&password=102030" -X POST http://localhost:{port}/
